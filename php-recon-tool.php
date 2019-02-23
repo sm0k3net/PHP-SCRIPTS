@@ -3,6 +3,7 @@ set_time_limit(0);
 //ini_set('display_errors', 1);
 //ini_set('display_startup_errors', 1);
 //error_reporting(E_ALL);
+//For this article: https://www.scanforsecurity.com/articles/automated-recon-tool-with-php-curl-wafw00f-whatweb-whois.html
 
 function progress($item) {
 echo $item;
